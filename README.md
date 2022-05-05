@@ -1,7 +1,6 @@
-# NBA-Trends-Analysis
-# Project Name
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+# NBA Trends Analysis
+> A simply python program that analyses player trends in the NBA from 2005 to 2020
+
 
 ## Table of Contents
 * [General Info](#general-information)
