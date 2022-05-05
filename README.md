@@ -1,5 +1,5 @@
 # NBA Trends Analysis
-> A simply python program that analyses player trends in the NBA from 2005 to 2020
+> A simple python program that analyses player trends in the NBA from 2005 to 2020
 
 
 ## Table of Contents
